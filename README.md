@@ -1,4 +1,3 @@
-# fhn-tameca
 # Financial Health Network - Characteristics of the Unbanked and Underbanked
 
 ## Project Description:
